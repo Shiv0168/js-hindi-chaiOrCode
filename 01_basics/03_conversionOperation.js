@@ -1,3 +1,11 @@
+/**
+                                                  IMP 
+for type conversion use simple Number , String etc but not use new keyword because they are use for reating new String or Number
+*/
+/////////////////////////////////////////////// ******** /////////////////////////////////////////////
+
+
+
 let score = "hitesh"
 
 //console.log(typeof score);
